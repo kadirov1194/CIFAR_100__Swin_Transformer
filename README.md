@@ -1,6 +1,6 @@
 # CIFAR_100__Swin_Transformer
 Image classification with Swin Transformers
-<b\.>
+<.b\>
 Dataset
 
 CIFAR-100
